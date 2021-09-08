@@ -1,0 +1,21 @@
+.Top{
+    height: 200px;
+    width: 200px;
+    background-color: darkorange;
+    padding: 20px;
+    border: solid 10px;
+}
+.Med{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    border:solid 20px;
+    margin-left: 260px;
+}
+.Bottom{
+    height: 200px;
+    width: 200px;
+    background-color: darkblue;
+    border:solid 10px;
+    margin-left: 500px;
+}
